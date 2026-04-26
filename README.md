@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello there! My name is Duru Parkash, and I am a Junior Frontend Developer residing in Karachi. Presently, I am undergoing the Modern Web and Mobile App Development course offered by Saylani Mass IT Training (SMIT). I am turning my love for programming into a lucrative profession.<br><br>As of now, I have become proficient in designing pixel-perfect and responsive designs. In addition, I am working towards becoming a master in JavaScript logic.<br><br>💻 Tech Stack & Learning Progress<br>Web Foundations: HTML5, CSS3, Semantic UI, Responsive Design.<br><br>Programming: JavaScript (Currently learning DOM, ES6+, and Logic).<br><br>Frameworks (Coming Soon): React.js & Next.js.<br><br>Tools: Git, GitHub, VS Code.<br><br>🏗️ Projects During Training<br>OLX Clone: A static marketplace design emphasizing layout.<br><br>Airbnb Clone: Complex CSS Grid & Flexbox design practice.<br><br>LinkedIn Clone: Emphasis on professional User Interface and typography design.<br><br>Daraz Clone: A complete e-commerce website layout using no framework.
+Hi, I’m Duru Parkash, a Junior Frontend Developer based in Karachi and currently enrolled in SMIT’s Modern Web & Mobile App Development program. I’m focused on turning my passion for coding into a professional career.
+
+I specialize in building pixel-perfect, responsive UI designs and am actively strengthening my JavaScript skills, especially DOM manipulation and modern ES6+ concepts.
+
+**Tech Stack:** HTML5, CSS3, Responsive Design, JavaScript (learning), Git, GitHub, VS Code
+**Upcoming:** React.js, Next.js
+
+**Projects:** OLX, Airbnb, LinkedIn, and Daraz clones—focused on layout, UI design, and responsive structure.
 
 
 ## 🌐 Socials:
