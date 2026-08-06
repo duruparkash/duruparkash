@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Duru Parkash, a Junior Frontend Developer based in Karachi and currently enrolled in SMIT’s Modern Web & Mobile App Development program. I’m focused on turning my passion for coding into a professional career.
 
 I specialize in building pixel-perfect, responsive UI designs and am actively strengthening my JavaScript skills, especially DOM manipulation and modern ES6+ concepts.
